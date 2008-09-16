@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll" total="3" failures="0" not-run="0" date="2008-01-29" time="05:30:48">
+  <environment nunit-version="2.4.6.0" clr-version="2.0.50727.1433" os-version="Microsoft Windows NT 5.1.2600 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.6\bin" machine-name="OVERPASSMAIN" user="Eric" user-domain="OVERPASSMAIN" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite name="C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll" success="True" time="0.375" asserts="0">
+    <results>
+      <test-suite name="Overpass" success="True" time="0.375" asserts="0">
+        <results>
+          <test-suite name="NikePlusAPI" success="True" time="0.375" asserts="0">
+            <results>
+              <test-suite name="Tests" success="True" time="0.359" asserts="0">
+                <results>
+                  <test-suite name="NikePlusTests" success="True" time="0.359" asserts="0">
+                    <results>
+                      <test-case name="Overpass.NikePlusAPI.Tests.NikePlusTests.TestGetRunDetails" executed="True" success="True" time="0.328" asserts="3" />
+                      <test-case name="Overpass.NikePlusAPI.Tests.NikePlusTests.TestGetRuns" executed="True" success="True" time="0.000" asserts="1" />
+                      <test-case name="Overpass.NikePlusAPI.Tests.NikePlusTests.TestGetUserInfo" executed="True" success="True" time="0.000" asserts="5" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

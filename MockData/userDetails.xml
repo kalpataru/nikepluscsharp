@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plusService>
+  <status>success</status>
+  <user id="1152219473">
+    <status>confirmed</status>
+    <gender>male</gender>
+    <email>eric.wroolie@overpass.co.uk</email>
+    <city>Wantage</city>
+    <country>GB</country>
+  </user>
+  <userTotals>
+    <totalDistance>524.7942</totalDistance>
+    <totalDuration>158184923</totalDuration>
+    <totalRuns>95</totalRuns>
+    <totalCalories>12239</totalCalories>
+  </userTotals>
+  <userOptions>
+    <screenName><![CDATA[EricWroolie]]></screenName>
+    <distanceUnit>mi</distanceUnit>
+    <dateFormat>DD/MM/YY</dateFormat>
+    <startWeek>Su</startWeek>
+    <avatar>0</avatar>
+    <uploadedAvatar />
+    <isPublic>false</isPublic>
+    <powerSong>
+      <artist><![CDATA[Brian Stokes Mitchell & Ernie Sabella]]></artist>
+      <album><![CDATA[Man of La Mancha (The New Broadway Cast)]]></album>
+      <title><![CDATA[Man of La Mancha (I, Don Quixote)]]></title>
+    </powerSong>
+  </userOptions>
+  <mostRecentRun id="149666200">
+    <startTime>2007-11-01T05:29:19+00:00</startTime>
+    <distance>5.1978</distance>
+    <duration>1596910</duration>
+  </mostRecentRun>
+</plusService>

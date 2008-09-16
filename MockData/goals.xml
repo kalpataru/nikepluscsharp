@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plusService>
+  <status>success</status>
+  <goalList>
+    <goal id="15605350">
+      <complete>false</complete>
+      <level>03</level>
+      <startTime>2008-01-05T10:31:14+00:00</startTime>
+      <endTime>2008-02-02T23:59:59+00:00</endTime>
+      <definition>
+        <type>runFurther</type>
+        <distanceInKM>96.56064</distanceInKM>
+        <displayUnit>mi</displayUnit>
+        <totalProgress>0.0</totalProgress>
+      </definition>
+    </goal>
+  </goalList>
+  <goalResolutionList />
+</plusService>
