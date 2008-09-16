@@ -51,8 +51,8 @@ namespace Overpass.NikePlusAPI.Tests
             Assert.AreEqual(run.PowerSong.Title,"07. Survivor - Eye Of The Tiger (1982)");
 
            
-            Assert.AreEqual(5.17,run.RunSummary.Kilometers);
-            Assert.AreEqual(3.21, run.RunSummary.Miles);
+            Assert.AreEqual(5.17,run.Kilometers);
+            Assert.AreEqual(3.21, run.Miles);
             
         }
 

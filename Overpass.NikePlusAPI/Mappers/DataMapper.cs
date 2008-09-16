@@ -18,10 +18,11 @@ namespace Overpass.NikePlusAPI.Mappers
             user.Email = xml.SelectSingleNode("//email").InnerText;
             user.Country = xml.SelectSingleNode("//country").InnerText;
             user.TotalRuns = int.Parse(xml.SelectSingleNode("//totalRuns").InnerText);
-
-            user.RunSummary = new RunSummary(float.Parse(xml.SelectSingleNode("//totalDistance").InnerText),
-                    long.Parse(xml.SelectSingleNode("//totalDuration").InnerText),
-                    long.Parse(xml.SelectSingleNode("//totalCalories").InnerText));
+            
+            user.Distance = int.Parse(xml.SelectSingleNode("//totalDistance").InnerText);
+            user.Duration = long.Parse(xml.SelectSingleNode("//totalDuration").InnerText);
+            user.Calories = long.Parse(xml.SelectSingleNode("//totalCalories").InnerText);
+            
 
             user.ScreenName = xml.SelectSingleNode("//screenName").InnerText;
             user.distanceUnit = xml.SelectSingleNode("//distanceUnit").InnerText;
@@ -51,9 +52,9 @@ namespace Overpass.NikePlusAPI.Mappers
                 newRun.SyncTime = DateTime.Parse(node.SelectSingleNode("syncTime").InnerText);
                 newRun.Name = node.SelectSingleNode("name").InnerText;
                 newRun.Description = node.SelectSingleNode("description").InnerText;
-                newRun.RunSummary.Calories = long.Parse(node.SelectSingleNode("calories").InnerText);
-                newRun.RunSummary.Duration = long.Parse(node.SelectSingleNode("duration").InnerText);
-                newRun.RunSummary.Distance = float.Parse(node.SelectSingleNode("distance").InnerText);
+                newRun.Calories = long.Parse(node.SelectSingleNode("calories").InnerText);
+                newRun.Duration = long.Parse(node.SelectSingleNode("duration").InnerText);
+                newRun.Distance = float.Parse(node.SelectSingleNode("distance").InnerText);
                 runs.Add(newRun);
             }
 
@@ -67,14 +68,11 @@ namespace Overpass.NikePlusAPI.Mappers
             run.Weight = float.Parse(xml.SelectSingleNode("//weight").InnerText);
             run.Device = xml.SelectSingleNode("//device").InnerText;
             run.EmpedID = xml.SelectSingleNode("//empedID").InnerText;
-          //  run.ID = xml.SelectSingleNode("//id").InnerText;
             run.StartTime = DateTime.Parse(xml.SelectSingleNode("//startTime").InnerText);
-            //run.SyncTime = DateTime.Parse(xml.SelectSingleNode("//syncTime").InnerText);
-           // run.Name = xml.SelectSingleNode("//name").InnerText;
             run.Description = xml.SelectSingleNode("//description").InnerText;
-            run.RunSummary.Calories = long.Parse(xml.SelectSingleNode("//calories").InnerText);
-            run.RunSummary.Duration = long.Parse(xml.SelectSingleNode("//duration").InnerText);
-            run.RunSummary.Distance = float.Parse(xml.SelectSingleNode("//distance").InnerText);
+            run.Calories = long.Parse(xml.SelectSingleNode("//calories").InnerText);
+            run.Duration = long.Parse(xml.SelectSingleNode("//duration").InnerText);
+            run.Distance = float.Parse(xml.SelectSingleNode("//distance").InnerText);
             run.BestComparableRun = xml.SelectSingleNode("//bestComparableRun").InnerText;
 
             //powersong
