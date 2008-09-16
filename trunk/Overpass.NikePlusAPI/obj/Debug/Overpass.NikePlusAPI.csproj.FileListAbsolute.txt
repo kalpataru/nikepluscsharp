@@ -5,3 +5,10 @@ C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI\obj\Debug\Overpass.NikePlusAPI.pdb
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.Model.dll
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.Model.pdb
+C:\dev\nikepluscsharp\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.dll
+C:\dev\nikepluscsharp\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.pdb
+C:\dev\nikepluscsharp\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.Model.dll
+C:\dev\nikepluscsharp\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.Model.pdb
+C:\dev\nikepluscsharp\Overpass.NikePlusAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\nikepluscsharp\Overpass.NikePlusAPI\obj\Debug\Overpass.NikePlusAPI.dll
+C:\dev\nikepluscsharp\Overpass.NikePlusAPI\obj\Debug\Overpass.NikePlusAPI.pdb

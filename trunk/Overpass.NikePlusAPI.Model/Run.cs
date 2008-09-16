@@ -16,12 +16,14 @@ namespace Overpass.NikePlusAPI.Model
         private string _empedID;
         private DateTime _startTime;
         private DateTime _syncTime;
-        private IRunSummary _runSummary = new RunSummary();
         private string _bestComparableRun;
         List<ISnapShot> _userClickSnapshot = new List<ISnapShot>();
         List<ISnapShot> _stopSnapshot = new List<ISnapShot>();
         List<ISnapShot> _pauseSnapshot = new List<ISnapShot>();
         IPowerSong _powerSong = new PowerSong();
+        private float _distance;
+        private long _duration;
+        private long _calories;
         #endregion
 
         public Run()
@@ -140,17 +142,7 @@ namespace Overpass.NikePlusAPI.Model
             }
         }
 
-        public IRunSummary RunSummary
-        {
-            get
-            {
-                return _runSummary;
-            }
-            set
-            {
-                _runSummary = value;
-            }
-        }
+       
 
         public string BestComparableRun
         {
@@ -204,6 +196,74 @@ namespace Overpass.NikePlusAPI.Model
         {
             get { return _powerSong; }
             set { _powerSong = value; }
+        }
+
+        public float Distance
+        {
+            get
+            {
+                return _distance;
+            }
+            set
+            {
+                _distance = value;
+            }
+        }
+
+        public long Duration
+        {
+            get
+            {
+                return _duration;
+            }
+            set
+            {
+                _duration = value;
+            }
+        }
+
+        public long Calories
+        {
+            get
+            {
+                return _calories;
+            }
+            set
+            {
+                _calories = value;
+            }
+        }
+
+        public decimal Miles
+        {
+            get
+            {
+                if (_distance > 0)
+                {
+                    decimal milesConversion = 1.609344M;
+                    decimal miles = (decimal.Parse(_distance.ToString()) / milesConversion);
+                    return (System.Math.Round(miles, 2));
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+        }
+
+        public decimal Kilometers
+        {
+            get
+            {
+                if (_distance > 0)
+                {
+                    return (System.Math.Round(decimal.Parse(_distance.ToString()), 2));
+                }
+                else
+                {
+                    return 0;
+                }
+            }
         }
 
         #endregion

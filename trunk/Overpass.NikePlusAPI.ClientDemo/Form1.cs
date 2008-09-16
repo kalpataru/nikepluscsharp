@@ -43,7 +43,7 @@ namespace Overpass.NikePlusAPI.ClientDemo
             foreach(IRunSummary run in runs) {
 
             }
-            iRunBindingSource.DataSource
+            iRunBindingSource.DataSource = api.getUserDetails();
 
            
             

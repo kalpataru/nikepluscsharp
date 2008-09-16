@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Overpass.NikePlusAPI.Model
 {
-    public interface IUserDetails
+    public interface IUserDetails: IRunSummary
     {
         string UserID { get; set; }
         string Status { get; set; }
@@ -13,7 +13,6 @@ namespace Overpass.NikePlusAPI.Model
         string City { get; set; }
         string Country { get; set; }
 
-        IRunSummary RunSummary { get; set; }
         int TotalRuns { get; set; }
         
 

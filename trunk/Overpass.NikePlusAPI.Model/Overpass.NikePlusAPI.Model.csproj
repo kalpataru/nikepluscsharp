@@ -44,7 +44,6 @@
     <Compile Include="PowerSong.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Run.cs" />
-    <Compile Include="RunSummary.cs" />
     <Compile Include="Snapshot.cs" />
     <Compile Include="UserDetails.cs" />
   </ItemGroup>
