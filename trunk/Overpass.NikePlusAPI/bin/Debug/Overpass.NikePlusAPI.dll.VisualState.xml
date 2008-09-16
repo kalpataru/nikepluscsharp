@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.dll</TopNode>
+  <SelectedNode>[0-1000]C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.dll" />
+  </Nodes>
+</VisualState>

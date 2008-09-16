@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overpass.NikePlusAPI", "Overpass.NikePlusAPI\Overpass.NikePlusAPI.csproj", "{D5729CEB-A136-4BDC-8505-F50A71E1AB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overpass.NikePlusAPI.Tests", "Overpass.NikePlusAPI.Tests\Overpass.NikePlusAPI.Tests.csproj", "{384215FF-34D4-4500-8C1C-BD85F26F5D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overpass.NikePlusAPI.ClientDemo", "Overpass.NikePlusAPI.ClientDemo\Overpass.NikePlusAPI.ClientDemo.csproj", "{02C76E78-6AD0-4CFA-ADB3-B9C36B10B2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overpass.NikePlusAPI.Model", "Overpass.NikePlusAPI.Model\Overpass.NikePlusAPI.Model.csproj", "{56F1EF6C-D00D-4DFF-9732-D83E8361B0A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5729CEB-A136-4BDC-8505-F50A71E1AB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5729CEB-A136-4BDC-8505-F50A71E1AB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5729CEB-A136-4BDC-8505-F50A71E1AB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5729CEB-A136-4BDC-8505-F50A71E1AB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384215FF-34D4-4500-8C1C-BD85F26F5D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384215FF-34D4-4500-8C1C-BD85F26F5D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384215FF-34D4-4500-8C1C-BD85F26F5D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384215FF-34D4-4500-8C1C-BD85F26F5D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C76E78-6AD0-4CFA-ADB3-B9C36B10B2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C76E78-6AD0-4CFA-ADB3-B9C36B10B2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C76E78-6AD0-4CFA-ADB3-B9C36B10B2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C76E78-6AD0-4CFA-ADB3-B9C36B10B2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F1EF6C-D00D-4DFF-9732-D83E8361B0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F1EF6C-D00D-4DFF-9732-D83E8361B0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F1EF6C-D00D-4DFF-9732-D83E8361B0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F1EF6C-D00D-4DFF-9732-D83E8361B0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

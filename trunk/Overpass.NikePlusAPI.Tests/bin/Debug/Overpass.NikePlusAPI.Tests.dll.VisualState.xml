@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1004]C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll</TopNode>
+  <SelectedNode>[0-1004]C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1005]Overpass" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1006]Overpass.NikePlusAPI" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1007]Overpass.NikePlusAPI.Tests" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1000]Overpass.NikePlusAPI.Tests.NikePlusTests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1003]Overpass.NikePlusAPI.Tests.NikePlusTests.TestGetRunDetails" />
+                        <Node UniqueName="[0-1002]Overpass.NikePlusAPI.Tests.NikePlusTests.TestGetRuns" />
+                        <Node UniqueName="[0-1001]Overpass.NikePlusAPI.Tests.NikePlusTests.TestGetUserInfo" />
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>
