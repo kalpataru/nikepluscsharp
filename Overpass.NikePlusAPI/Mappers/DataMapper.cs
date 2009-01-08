@@ -52,9 +52,15 @@ namespace Overpass.NikePlusAPI.Mappers
                 newRun.SyncTime = DateTime.Parse(node.SelectSingleNode("syncTime").InnerText);
                 newRun.Name = node.SelectSingleNode("name").InnerText;
                 newRun.Description = node.SelectSingleNode("description").InnerText;
+<<<<<<< .mine
+                newRun.RunSummary.Calories = float.Parse(node.SelectSingleNode("calories").InnerText);
+                newRun.RunSummary.Duration = long.Parse(node.SelectSingleNode("duration").InnerText);
+                newRun.RunSummary.Distance = float.Parse(node.SelectSingleNode("distance").InnerText);
+=======
                 newRun.Calories = long.Parse(node.SelectSingleNode("calories").InnerText);
                 newRun.Duration = long.Parse(node.SelectSingleNode("duration").InnerText);
                 newRun.Distance = float.Parse(node.SelectSingleNode("distance").InnerText);
+>>>>>>> .r3
                 runs.Add(newRun);
             }
 

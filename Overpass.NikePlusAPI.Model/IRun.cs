@@ -19,6 +19,12 @@ namespace Overpass.NikePlusAPI.Model
         DateTime SyncTime { get; set; }
         
 
+        float Distance { get;  }
+        long Duration { get;  }
+        float Calories { get;  }
+        decimal Miles { get; }
+        decimal Kilometers { get; }
+
         string BestComparableRun { get; set; }
 
         List<ISnapShot> UserClickSnapshot { get; set; }

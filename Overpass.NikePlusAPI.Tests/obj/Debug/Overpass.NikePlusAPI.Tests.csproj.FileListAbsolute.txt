@@ -10,6 +10,20 @@ C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Model.dll
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Model.pdb
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll.config
+<<<<<<< .mine
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll.config
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.pdb
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.dll
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Model.dll
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Model.pdb
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.pdb
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.dll
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.pdb
+=======
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll.config
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.pdb
@@ -21,3 +35,4 @@ C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.dll
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.pdb
+>>>>>>> .r3

@@ -35,9 +35,8 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.label2 = new System.Windows.Forms.Label();
             this.txtPassword = new System.Windows.Forms.TextBox();
-            this.userDetailsBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.iRunBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.userIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.statusDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.genderDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -55,16 +54,11 @@
             this.isPublicDataGridViewCheckBoxColumn = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.powerSongDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.mostRecentRunDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn15 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.userDetailsBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.tableLayoutPanel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.userDetailsBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.iRunBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.userDetailsBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -131,15 +125,6 @@
             this.txtPassword.Size = new System.Drawing.Size(94, 20);
             this.txtPassword.TabIndex = 3;
             // 
-            // userDetailsBindingSource
-            // 
-            this.userDetailsBindingSource.DataSource = typeof(Overpass.NikePlusAPI.Model.UserDetails);
-            // 
-            // iRunBindingSource
-            // 
-            this.iRunBindingSource.DataSource = typeof(Overpass.NikePlusAPI.Model.IRun);
-            this.iRunBindingSource.CurrentChanged += new System.EventHandler(this.iRunBindingSource_CurrentChanged);
-            // 
             // dataGridView1
             // 
             this.dataGridView1.AutoGenerateColumns = false;
@@ -167,6 +152,14 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(598, 87);
             this.dataGridView1.TabIndex = 5;
+            // 
+            // dataGridView2
+            // 
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(30, 227);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.Size = new System.Drawing.Size(598, 265);
+            this.dataGridView2.TabIndex = 6;
             // 
             // userIDDataGridViewTextBoxColumn
             // 
@@ -270,30 +263,9 @@
             this.mostRecentRunDataGridViewTextBoxColumn.HeaderText = "MostRecentRun";
             this.mostRecentRunDataGridViewTextBoxColumn.Name = "mostRecentRunDataGridViewTextBoxColumn";
             // 
-            // dataGridView2
+            // userDetailsBindingSource
             // 
-            this.dataGridView2.AutoGenerateColumns = false;
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn7,
-            this.dataGridViewTextBoxColumn15});
-            this.dataGridView2.DataSource = this.iRunBindingSource;
-            this.dataGridView2.Location = new System.Drawing.Point(30, 227);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(598, 265);
-            this.dataGridView2.TabIndex = 6;
-            // 
-            // dataGridViewTextBoxColumn7
-            // 
-            this.dataGridViewTextBoxColumn7.DataPropertyName = "RunSummary";
-            this.dataGridViewTextBoxColumn7.HeaderText = "RunSummary";
-            this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
-            // 
-            // dataGridViewTextBoxColumn15
-            // 
-            this.dataGridViewTextBoxColumn15.DataPropertyName = "PowerSong";
-            this.dataGridViewTextBoxColumn15.HeaderText = "PowerSong";
-            this.dataGridViewTextBoxColumn15.Name = "dataGridViewTextBoxColumn15";
+            this.userDetailsBindingSource.DataSource = typeof(Overpass.NikePlusAPI.Model.UserDetails);
             // 
             // Form1
             // 
@@ -308,11 +280,9 @@
             this.Text = "Form1";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.userDetailsBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.iRunBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.userDetailsBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -326,7 +296,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.BindingSource userDetailsBindingSource;
-        private System.Windows.Forms.BindingSource iRunBindingSource;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.DataGridViewTextBoxColumn userIDDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn statusDataGridViewTextBoxColumn;
@@ -346,9 +315,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn powerSongDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn mostRecentRunDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridView dataGridView2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn7;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn15;
-        private System.Windows.Forms.BindingSource bindingSource1;
     }
 }
 

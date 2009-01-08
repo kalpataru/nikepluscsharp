@@ -9,7 +9,7 @@ namespace Overpass.NikePlusAPI.Model
         #region Internals
         private float _distance;
         private long _duration;
-        private long _calories; 
+        private float _calories; 
         #endregion
 
 
@@ -50,7 +50,7 @@ namespace Overpass.NikePlusAPI.Model
             }
         }
 
-        public long Calories
+        public float Calories
         {
             get
             {
