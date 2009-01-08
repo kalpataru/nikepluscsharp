@@ -40,11 +40,22 @@ namespace Overpass.NikePlusAPI.ClientDemo
 
             List<IRun> runs = api.getRuns();
            
+<<<<<<< .mine
+=======
             foreach(IRunSummary run in runs) {
 
             }
             iRunBindingSource.DataSource = api.getUserDetails();
 
+>>>>>>> .r3
+           
+            //iRunBindingSource.DataSource;
+           dataGridView2.DataSource = runs;
+            DataGridViewColumn mileColumn = new DataGridViewColumn(dataGridView2.Columns[0].CellTemplate);
+            
+            
+            dataGridView2.Columns.Add(mileColumn);
+            dataGridView2.Refresh();
            
             
         }

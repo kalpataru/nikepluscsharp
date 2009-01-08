@@ -11,6 +11,21 @@ C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.dll
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.pdb
 C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.exe.config
+<<<<<<< .mine
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.exe.config
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.exe
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.pdb
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.Form1.resources
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.Properties.Resources.resources
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.exe
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.pdb
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.dll
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.dll
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.pdb
+C:\Documents and Settings\Eric\My Documents\Visual Studio 2008\Projects\Overpass.NikePlusAPI\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.pdb
+=======
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.exe.config
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.exe
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.pdb
@@ -24,3 +39,4 @@ C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlu
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.dll
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.pdb
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.pdb
+>>>>>>> .r3

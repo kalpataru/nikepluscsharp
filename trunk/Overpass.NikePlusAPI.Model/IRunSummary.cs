@@ -9,7 +9,7 @@ namespace Overpass.NikePlusAPI.Model
         float Distance { get; set; }
         long Duration { get; set; }
 
-        long Calories { get; set; }
+        float Calories { get; set; }
 
         decimal Miles { get;}
         decimal Kilometers { get; }

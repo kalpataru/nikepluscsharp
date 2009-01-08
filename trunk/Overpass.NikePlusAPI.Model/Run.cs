@@ -267,5 +267,52 @@ namespace Overpass.NikePlusAPI.Model
         }
 
         #endregion
+
+        #region IRunSummary Members
+
+        public float Distance
+        {
+            get
+            {
+                return _runSummary.Distance;
+            }
+            
+        }
+
+        public long Duration
+        {
+            get
+            {
+                return _runSummary.Duration;
+            }
+         
+        }
+
+        public float Calories
+        {
+            get
+            {
+                return _runSummary.Calories;
+            }
+            
+        }
+
+        public decimal Miles
+        {
+            get
+            {
+            return _runSummary.Miles;
+            }
+        }
+
+        public decimal Kilometers
+        {
+            get
+            {
+                return _runSummary.Kilometers;
+            }
+        }
+
+        #endregion
     }
 }

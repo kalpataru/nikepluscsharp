@@ -15,7 +15,7 @@ namespace Overpass.NikePlusAPI.Tests
         [SetUp]
         public void TestLogin()
         {
-            NikePlus nikePlus = new NikePlus(NikePlus.NikeDataType.Mock);
+            NikePlus nikePlus = new NikePlus(NikePlus.NikeDataType.Web);
             
             _api = nikePlus.GetAPI("", "");
             _api.Login();
