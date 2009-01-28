@@ -16,3 +16,8 @@ C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Model\bin\Debug\Overpass.NikePlusAPI.
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Model\bin\Debug\Overpass.NikePlusAPI.Model.pdb
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Model\obj\Debug\Overpass.NikePlusAPI.Model.pdb
 >>>>>>> .r3
+G:\Development\Nike+\Overpass.NikePlusAPI.Model\obj\Debug\ResolveAssemblyReference.cache
+G:\Development\Nike+\Overpass.NikePlusAPI.Model\obj\Debug\Overpass.NikePlusAPI.Model.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.Model\obj\Debug\Overpass.NikePlusAPI.Model.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI.Model\bin\Debug\Overpass.NikePlusAPI.Model.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.Model\bin\Debug\Overpass.NikePlusAPI.Model.pdb
