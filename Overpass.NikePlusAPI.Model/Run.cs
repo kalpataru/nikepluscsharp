@@ -23,7 +23,7 @@ namespace Overpass.NikePlusAPI.Model
         IPowerSong _powerSong = new PowerSong();
         private float _distance;
         private long _duration;
-        private long _calories;
+        private float _calories;
         #endregion
 
         public Run()
@@ -222,7 +222,7 @@ namespace Overpass.NikePlusAPI.Model
             }
         }
 
-        public long Calories
+        public float Calories
         {
             get
             {
@@ -268,51 +268,6 @@ namespace Overpass.NikePlusAPI.Model
 
         #endregion
 
-        #region IRunSummary Members
-
-        public float Distance
-        {
-            get
-            {
-                return _runSummary.Distance;
-            }
-            
-        }
-
-        public long Duration
-        {
-            get
-            {
-                return _runSummary.Duration;
-            }
-         
-        }
-
-        public float Calories
-        {
-            get
-            {
-                return _runSummary.Calories;
-            }
-            
-        }
-
-        public decimal Miles
-        {
-            get
-            {
-            return _runSummary.Miles;
-            }
-        }
-
-        public decimal Kilometers
-        {
-            get
-            {
-                return _runSummary.Kilometers;
-            }
-        }
-
-        #endregion
+      
     }
 }

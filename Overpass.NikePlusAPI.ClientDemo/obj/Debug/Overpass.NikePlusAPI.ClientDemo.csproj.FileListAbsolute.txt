@@ -40,3 +40,16 @@ C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlu
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.pdb
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.pdb
 >>>>>>> .r3
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.exe.config
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.exe
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\obj\Debug\ResolveAssemblyReference.cache
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.Form1.resources
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.Properties.Resources.resources
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\obj\Debug\Overpass.NikePlusAPI.ClientDemo.csproj.GenerateResource.Cache
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.exe
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.ClientDemo.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI.ClientDemo\bin\Debug\Overpass.NikePlusAPI.Model.pdb

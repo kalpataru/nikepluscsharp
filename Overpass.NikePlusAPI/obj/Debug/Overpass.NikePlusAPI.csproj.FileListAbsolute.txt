@@ -22,3 +22,10 @@ C:\dev\nikepluscsharp\Overpass.NikePlusAPI\obj\Debug\ResolveAssemblyReference.ca
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI\obj\Debug\Overpass.NikePlusAPI.dll
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI\obj\Debug\Overpass.NikePlusAPI.pdb
 >>>>>>> .r3
+G:\Development\Nike+\Overpass.NikePlusAPI\obj\Debug\ResolveAssemblyReference.cache
+G:\Development\Nike+\Overpass.NikePlusAPI\obj\Debug\Overpass.NikePlusAPI.dll
+G:\Development\Nike+\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.dll
+G:\Development\Nike+\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.Model.dll
+G:\Development\Nike+\Overpass.NikePlusAPI\bin\Debug\Overpass.NikePlusAPI.Model.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI\obj\Debug\Overpass.NikePlusAPI.pdb

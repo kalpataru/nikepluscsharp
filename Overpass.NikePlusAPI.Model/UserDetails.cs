@@ -25,7 +25,7 @@ namespace Overpass.NikePlusAPI.Model
         private IRun _mostRecentRun;
         private float _distance;
         private long _duration;
-        private long _calories;
+        private float _calories;
         #endregion
 
         #region IUserDetails Members
@@ -250,7 +250,7 @@ namespace Overpass.NikePlusAPI.Model
             }
         }
 
-        public long Calories
+        public float Calories
         {
             get
             {

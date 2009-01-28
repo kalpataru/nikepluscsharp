@@ -36,3 +36,15 @@ C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\ResolveAssemblyRefere
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.dll
 C:\dev\nikepluscsharp\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.pdb
 >>>>>>> .r3
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll.config
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Tests.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\nunit.framework.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Model.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\nunit.framework.xml
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.Model.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\bin\Debug\Overpass.NikePlusAPI.pdb
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\obj\Debug\ResolveAssemblyReference.cache
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.dll
+G:\Development\Nike+\Overpass.NikePlusAPI.Tests\obj\Debug\Overpass.NikePlusAPI.Tests.pdb
