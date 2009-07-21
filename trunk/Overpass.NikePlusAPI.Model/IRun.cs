@@ -17,9 +17,14 @@ namespace Overpass.NikePlusAPI.Model
 
         DateTime StartTime { get; set; }
         DateTime SyncTime { get; set; }
-        
 
-   
+
+        float Distance { get; set; }
+        long Duration { get; set; }
+        float Calories { get; set; }
+        decimal Miles { get;  }
+        decimal Kilometers { get;  }
+
         string BestComparableRun { get; set; }
 
         List<ISnapShot> UserClickSnapshot { get; set; }
@@ -27,12 +32,6 @@ namespace Overpass.NikePlusAPI.Model
         List<ISnapShot> PauseSnapShot { get; set; }
 
         IPowerSong PowerSong { get; set; }
-        float Distance { get; set; }
-        long Duration { get; set; }
-
-        float Calories { get; set; }
-
-        decimal Miles { get; }
-        decimal Kilometers { get; }
+        
     }
 }
