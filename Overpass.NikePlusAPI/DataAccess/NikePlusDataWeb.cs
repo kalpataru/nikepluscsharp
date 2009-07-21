@@ -26,7 +26,7 @@ namespace Overpass.NikePlusAPI.DataAccess
         public  bool Authenticate()
         {
 
-            string authURI = String.Format(ConfigurationSettings.AppSettings["CreateSession"].ToString()+"?login={0}&password={1}",
+            string authURI = String.Format(ConfigurationSettings.AppSettings["CreateSession"].ToString()+"&login={0}&password={1}",
                     _userName, _passWord);
 
             WebRequest objRequest = System.Net.HttpWebRequest.Create(authURI);

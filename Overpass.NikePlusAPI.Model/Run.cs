@@ -268,6 +268,6 @@ namespace Overpass.NikePlusAPI.Model
 
         #endregion
 
-      
+       
     }
 }
